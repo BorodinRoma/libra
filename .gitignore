@@ -1,3 +1,5 @@
 venv
 
 .idea
+
+libra/settings_local.py
